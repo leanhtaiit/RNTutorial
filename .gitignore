@@ -1,0 +1,4 @@
+.gradle
+RNTutorial/android/app/build
+pods
+node_modules
